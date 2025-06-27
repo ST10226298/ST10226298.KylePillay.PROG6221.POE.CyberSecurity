@@ -1,0 +1,13 @@
+<Window x:Class="CyberSecurityAwarenessWPF.Views.QuizWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Cybersecurity Quiz" Height="400" Width="600">
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBlock Name="QuestionText" FontWeight="Bold" FontSize="16" Margin="0,0,0,10"/>
+            <ListBox Name="OptionsList" Height="120" SelectionMode="Single"/>
+            <Button Content="Submit Answer" Margin="0,10,0,0" Click="Submit_Click"/>
+            <TextBlock Name="FeedbackText" Margin="0,10,0,0" Foreground="DarkGreen"/>
+        </StackPanel>
+    </Grid>
+</Window>
