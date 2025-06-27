@@ -43,3 +43,4 @@ Kyle Pillay
 ST10226298
 https://github.com/ST10226298/ST10226298.PROG6221.POE.PART1.git
 https://github.com/ST10226298/ST10226298.KylePillay.PROG6221.POE.CyberSecurity.git
+https://github.com/ST10226298/ST10226298.KylePillay.Prog6221.POE.PART2.CyberSecurityAwareness.git
